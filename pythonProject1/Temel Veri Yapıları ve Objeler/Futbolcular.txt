@@ -6,4 +6,4 @@ Talisca,Beşiktaş
 Melo,Galatasaray
 Selçuk İnan,Galatasaray
 Onur Bulut,Beşiktas
-Mert Günok,Beşiktaş
+Mert Günok,Beşiktas
