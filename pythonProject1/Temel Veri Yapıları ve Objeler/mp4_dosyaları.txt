@@ -1,0 +1,113 @@
+C:/$Recycle.Bin\S-1-5-21-2674557883-3452109422-1630331226-1001\$I62WYA1.mp4
+C:/$Recycle.Bin\S-1-5-21-2674557883-3452109422-1630331226-1001\$R62WYA1.mp4
+C:/Program Files\Microsoft Office\root\Office16\sdxs\FA000000131\OfflineFiles\offline-video_9ff1a430b8d1fb095a75666ce8bc22e0.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\2Walkthrough_2_1_AskGeneralQuestion-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\2Walkthrough_2_2_SlashReferences-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\2Walkthrough_2_3_OpenChat-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\2Walkthrough_Exception_Analysis-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_1_1_SignIn.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_2_1_AskGeneralQuestion.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_2_2_SlashandReferences.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_3_1_InlineExample-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_3_1_InlineExample.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_4_1_Context.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_AutoRename-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_AutoRename.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_Completions.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_ExceptionAnalysis.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_GenerateGitCommitMessages-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_GenerateGitCommitMessages.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome\Welcome.NewProject.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome\Welcome.Search.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome\Welcome.Themes.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome\Welcome.WindowLayout.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.Cpp\Welcome.Cpp.Editing.Intellisense.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.Cpp\Welcome.Cpp.QuickActions.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.CSharp\Welcome.CSharp.Editing.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.CSharp\Welcome.CSharp.QuickActions.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.Python\Welcome.Python.Editing.Intellisense.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.Python\Welcome.Python.QuickActions.Refactoring.mp4
+C:/Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\media\OnTheFlyDocsCSharp.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\2Walkthrough_2_1_AskGeneralQuestion-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\2Walkthrough_2_2_SlashReferences-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\2Walkthrough_2_3_OpenChat-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\2Walkthrough_Exception_Analysis-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_1_1_SignIn.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_2_1_AskGeneralQuestion.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_2_2_SlashandReferences.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_3_1_InlineExample-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_3_1_InlineExample.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_4_1_Context.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_AutoRename-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_AutoRename.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_Completions.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_ExceptionAnalysis.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_GenerateGitCommitMessages-ezgif.com-gif-to-mp4-converter.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\CopilotWalkthrough\Walkthrough_GenerateGitCommitMessages.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome\Welcome.NewProject.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome\Welcome.Search.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome\Welcome.Themes.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome\Welcome.WindowLayout.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.Cpp\Welcome.Cpp.Editing.Intellisense.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.Cpp\Welcome.Cpp.QuickActions.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.CSharp\Welcome.CSharp.Editing.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.CSharp\Welcome.CSharp.QuickActions.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.Python\Welcome.Python.Editing.Intellisense.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Guide\Content\Images\Welcome.Python\Welcome.Python.QuickActions.Refactoring.mp4
+C:/Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\media\OnTheFlyDocsCSharp.mp4
+C:/ProgramData\anaconda3\Lib\site-packages\panel\tests\pane\assets\mp4.mp4
+C:/ProgramData\anaconda3\pkgs\panel-1.5.2-py312haa95532_0\Lib\site-packages\panel\tests\pane\assets\mp4.mp4
+C:/Users\hamdi\anaconda3\Lib\site-packages\panel\tests\pane\assets\mp4.mp4
+C:/Users\hamdi\AppData\Local\Microsoft\Office\SolutionPackages\15c14864dcdf0e74bcd4cc774d522f5a\PackageResources\OfflineFiles\offline-video_9ff1a430b8d1fb095a75666ce8bc22e0.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\DOC-20241127-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\IMG-20241125-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\IMG-20241125-WA0004.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\VID-20241124-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\VID-20241124-WA0002.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\VID-20241124-WA0003.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\VID-20241124-WA0004.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\VID-20241124-WA0005.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\VID-20241124-WA0006.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\VID-20241126-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\VID-20241126-WA0002.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_47\VID-20241127-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\IMG-20241204-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\IMG-20241205-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\VID-20241201-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\VID-20241203-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\VID-20241205-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_49\IMG-20241209-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_49\VID-20241209-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_49\VID-20241209-WA0002.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_49\VID-20241209-WA0003.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_49\VID-20241209-WA0004.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_49\VID-20241213-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_49\VID-20241214-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_50\IMG-20241215-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_50\IMG-20241215-WA0002.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_50\VID-20241216-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_50\VID-20241216-WA0002.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_50\VID-20241218-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_50\VID-20241219-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_50\VID-20241220-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_50\VID-20241220-WA0002.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_51\VID-20241225-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_51\VID-20241226-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_51\WA-20241225-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_52\VID-20241229-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_52\VID-20241229-WA0002.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_0\VID-20250106-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_0\VID-20250106-WA0002.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_0\VID-20250106-WA0003.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_1\VID-20250107-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_2\VID-20250119-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_3\VID-20250123-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_4\VID-20250131-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_4\VID-20250131-WA0002.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_5\VID-20250207-WA0001.mp4
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\dummy.mp4
+C:/Users\hamdi\OneDrive\Belgeler\Zoom\2024-12-28 13.12.10 AHMET HAMDİ ÖZKURT Zoom Toplantısı\video1421462744.mp4
+C:/Users\hamdi\OneDrive\Belgeler\Zoom\2024-12-28 13.47.37 AHMET HAMDİ ÖZKURT Zoom Toplantısı\video1491511917.mp4
+C:/Users\hamdi\OneDrive\Belgeler\Zoom\2024-12-28 13.53.15 AHMET HAMDİ ÖZKURT Zoom Toplantısı\video1395562561.mp4
+C:/Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\media\oobe-intro.mp4
+C:/Windows\WinSxS\amd64_microsoft-windows-c..st.appxmain.desktop_31bf3856ad364e35_10.0.26100.1591_none_24d501a973fa7371\oobe-intro.mp4

@@ -1,0 +1,337 @@
+C:/$Recycle.Bin\S-1-5-21-2674557883-3452109422-1630331226-1001\$I88JUP2.pdf
+C:/$Recycle.Bin\S-1-5-21-2674557883-3452109422-1630331226-1001\$R88JUP2.pdf
+C:/$Recycle.Bin\S-1-5-21-2674557883-3452109422-1630331226-1001\$RP51ZY4\6698 SAYILI K______SEL VER__LER__N KORUNMASI HAKKINDA KANUN___UN BIG DATA (B__Y__K VER__) VE __RADE SERBEST__S__ A__ISINDAN DE__ERLEND__R__LMES__[#304076]-291147.pdf
+C:/$Recycle.Bin\S-1-5-21-2674557883-3452109422-1630331226-1001\$RP51ZY4\dijital tereke makale.pdf
+C:/$Recycle.Bin\S-1-5-21-2674557883-3452109422-1630331226-1001\$RP51ZY4\Elektronik Ticaret tüketici Sempozyum final.pdf
+C:/$Recycle.Bin\S-1-5-21-2674557883-3452109422-1630331226-1001\$RP51ZY4\Jurix _ Metaverse Teknolojisi’nin Sözleşmeler Hukuku’nda Sebep Olacağı Değişimlere İlişkin Değerlendirmeler.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\back.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\filesave.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\forward.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\hand.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\help.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\home.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\matplotlib.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\move.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\qt4_editor_options.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\subplots.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\zoom_to_rect.pdf
+C:/ProgramData\anaconda3\Lib\site-packages\panel\tests\test_data\sample.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_entry.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_entry_acl.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_entry_linkify.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_entry_misc.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_entry_paths.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_entry_perms.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_entry_stat.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_entry_time.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_add_passphrase.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_data.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_disk.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_extract.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_filter.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_format.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_free.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_header.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_new.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_open.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_read_set_options.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_util.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_blocksize.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_data.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_disk.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_filter.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_finish_entry.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_format.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_free.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_header.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_new.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_open.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_set_options.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\archive_write_set_passphrase.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\bsdcpio.1.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\bsdtar.1.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\cpio.5.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\libarchive-formats.5.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\libarchive.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\libarchive_changes.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\libarchive_internals.3.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\mtree.5.pdf
+C:/ProgramData\anaconda3\Library\share\man\pdf\tar.5.pdf
+C:/ProgramData\anaconda3\pkgs\binaryornot-0.4.4-pyhd3eb1b0_1\info\test\tests\isBinaryFile\pdf.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_entry.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_entry_acl.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_entry_linkify.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_entry_misc.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_entry_paths.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_entry_perms.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_entry_stat.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_entry_time.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_add_passphrase.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_data.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_disk.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_extract.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_filter.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_format.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_free.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_header.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_new.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_open.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_read_set_options.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_util.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_blocksize.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_data.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_disk.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_filter.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_finish_entry.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_format.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_free.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_header.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_new.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_open.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_set_options.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\archive_write_set_passphrase.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\bsdcpio.1.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\bsdtar.1.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\cpio.5.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\libarchive-formats.5.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\libarchive.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\libarchive_changes.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\libarchive_internals.3.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\mtree.5.pdf
+C:/ProgramData\anaconda3\pkgs\libarchive-3.7.4-h9243413_0\Library\share\man\pdf\tar.5.pdf
+C:/ProgramData\anaconda3\pkgs\libgrpc-1.62.2-hf25190f_0\info\test\examples\objective-c\auth_sample\Misc\Images.xcassets\first.imageset\first.pdf
+C:/ProgramData\anaconda3\pkgs\libgrpc-1.62.2-hf25190f_0\info\test\examples\objective-c\auth_sample\Misc\Images.xcassets\second.imageset\second.pdf
+C:/ProgramData\anaconda3\pkgs\libgrpc-1.62.2-hf25190f_0\info\test\examples\objective-c\route_guide\Misc\Images.xcassets\first.imageset\first.pdf
+C:/ProgramData\anaconda3\pkgs\libgrpc-1.62.2-hf25190f_0\info\test\examples\objective-c\route_guide\Misc\Images.xcassets\second.imageset\second.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\back.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\filesave.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\forward.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\hand.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\help.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\home.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\matplotlib.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\move.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\qt4_editor_options.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\subplots.pdf
+C:/ProgramData\anaconda3\pkgs\matplotlib-base-3.9.2-py312hbdc63d0_0\Lib\site-packages\matplotlib\mpl-data\images\zoom_to_rect.pdf
+C:/ProgramData\anaconda3\pkgs\panel-1.5.2-py312haa95532_0\Lib\site-packages\panel\tests\test_data\sample.pdf
+C:/ProgramData\anaconda3\pkgs\sphinx-7.3.7-py312h827c3e9_0\info\test\tests\roots\test-ext-imgconverter\img.pdf
+C:/ProgramData\anaconda3\pkgs\sphinx-7.3.7-py312h827c3e9_0\info\test\tests\roots\test-images\img.pdf
+C:/ProgramData\anaconda3\pkgs\sphinx-7.3.7-py312h827c3e9_0\info\test\tests\roots\test-images\subdir\svgimg.pdf
+C:/ProgramData\anaconda3\pkgs\sphinx-7.3.7-py312h827c3e9_0\info\test\tests\roots\test-root\img.pdf
+C:/ProgramData\anaconda3\pkgs\sphinx-7.3.7-py312h827c3e9_0\info\test\tests\roots\test-root\svgimg.pdf
+C:/ProgramData\anaconda3\pkgs\sphinx-7.3.7-py312h827c3e9_0\info\test\tests\roots\test-warnings\svgimg.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\back.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\filesave.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\forward.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\hand.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\help.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\home.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\matplotlib.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\move.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\qt4_editor_options.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\subplots.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\matplotlib\mpl-data\images\zoom_to_rect.pdf
+C:/Users\hamdi\anaconda3\Lib\site-packages\panel\tests\test_data\sample.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_entry.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_entry_acl.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_entry_linkify.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_entry_misc.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_entry_paths.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_entry_perms.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_entry_stat.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_entry_time.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_add_passphrase.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_data.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_disk.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_extract.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_filter.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_format.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_free.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_header.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_new.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_open.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_read_set_options.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_util.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_blocksize.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_data.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_disk.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_filter.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_finish_entry.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_format.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_free.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_header.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_new.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_open.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_set_options.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\archive_write_set_passphrase.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\bsdcpio.1.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\bsdtar.1.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\cpio.5.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\libarchive-formats.5.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\libarchive.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\libarchive_changes.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\libarchive_internals.3.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\mtree.5.pdf
+C:/Users\hamdi\anaconda3\Library\share\man\pdf\tar.5.pdf
+C:/Users\hamdi\AppData\Local\JetBrains\PyCharm Community Edition 2024.2.4\help\ReferenceCard.pdf
+C:/Users\hamdi\AppData\Local\JetBrains\PyCharm Community Edition 2024.2.4\help\ReferenceCardForMac.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\DOC-20241202-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\DOC-20241202-WA0002.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\DOC-20241202-WA0003.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\DOC-20241202-WA0004.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\DOC-20241207-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_48\DOC-20241207-WA0002.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_49\DOC-20241212-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_49\DOC-20241213-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_49\fefbc0c4a68441a58bbcfb73f4a5c19b..pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_50\DOC-20241216-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_50\DOC-20241216-WA0002.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_51\DOC-20241225-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_52\80057ff6b3a84d518cea88d8aa3a6171..pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_52\DOC-20241230-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_0\c2dd42f1fbd148f9b3b4f2727d90f82f..pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_0\DOC-20250103-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_0\DOC-20250106-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_1\DOC-20250108-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_1\DOC-20250109-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_1\DOC-20250113-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_1\DOC-20250113-WA0002.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_1\DOC-20250113-WA0003.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_1\DOC-20250113-WA0004.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_1\DOC-20250113-WA0005.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_2\5eae822e47824074954c923bf7838c3e..pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_2\6021e337958d4b5088e512c2e99a711f..pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_2\DOC-20250115-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_2\DOC-20250115-WA0002.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_2\WA-20250115-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_3\7b0013287de048f999e140f6035be5f6..pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_3\DOC-20250122-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_3\DOC-20250122-WA0002.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_4\DOC-20250128-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_4\DOC-20250128-WA0002.pdf
+C:/Users\hamdi\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2025_4\DOC-20250129-WA0001.pdf
+C:/Users\hamdi\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\SearchExt\t.pdf
+C:/Users\hamdi\AppData\Roaming\Microsoft\Windows\Recent\AHMET HAMDİ CV.pdf
+C:/Users\hamdi\Downloads\10_Kalite_Yönetimi (31.12.2022) (1).pdf
+C:/Users\hamdi\Downloads\10_Kalite_Yönetimi (31.12.2022).pdf
+C:/Users\hamdi\Downloads\11_STOK_YÖNET M _2023-24_BAHAR.pdf
+C:/Users\hamdi\Downloads\5_Verimlilik_YBS_7.11.2022 (1).pdf
+C:/Users\hamdi\Downloads\5_Verimlilik_YBS_7.11.2022 (2).pdf
+C:/Users\hamdi\Downloads\5_Verimlilik_YBS_7.11.2022.pdf
+C:/Users\hamdi\Downloads\6698 SAYILI K______SEL VER__LER__N KORUNMASI HAKKINDA KANUN___UN BIG DATA (B__Y__K VER__) VE __RADE SERBEST__S__ A__ISINDAN DE__ERLEND__R__LMES__[#304076]-291147.pdf
+C:/Users\hamdi\Downloads\8_Yerle im_stratejileri.pdf
+C:/Users\hamdi\Downloads\9_Süreç_Stratejisi (MB) 26.12.2022.pdf
+C:/Users\hamdi\Downloads\Ahmet Hamdi Özkurt.pdf
+C:/Users\hamdi\Downloads\AHMET HAMDİ ÖZKURT CV (1).pdf
+C:/Users\hamdi\Downloads\AHMET HAMDİ ÖZKURT CV.pdf
+C:/Users\hamdi\Downloads\belge1.pdf
+C:/Users\hamdi\Downloads\belge10.pdf
+C:/Users\hamdi\Downloads\belge11.pdf
+C:/Users\hamdi\Downloads\belge12.pdf
+C:/Users\hamdi\Downloads\belge13.pdf
+C:/Users\hamdi\Downloads\belge14.pdf
+C:/Users\hamdi\Downloads\belge15.pdf
+C:/Users\hamdi\Downloads\belge2.pdf
+C:/Users\hamdi\Downloads\belge3.pdf
+C:/Users\hamdi\Downloads\belge4.pdf
+C:/Users\hamdi\Downloads\belge5.pdf
+C:/Users\hamdi\Downloads\belge6.pdf
+C:/Users\hamdi\Downloads\belge7.pdf
+C:/Users\hamdi\Downloads\belge8.pdf
+C:/Users\hamdi\Downloads\belge9.pdf
+C:/Users\hamdi\Downloads\Blokzincir hakkında.pdf
+C:/Users\hamdi\Downloads\bs.pdf
+C:/Users\hamdi\Downloads\Bölüm3-ENFORMASYON S STEMLER  ÖRGÜTLER VE STRATEJ .pdf
+C:/Users\hamdi\Downloads\Bölüm4-ENFORMASYON S STEMLER NE  L  K N ET K VE SOSYAL KONULAR (1).pdf
+C:/Users\hamdi\Downloads\Bölüm4-ENFORMASYON S STEMLER NE  L  K N ET K VE SOSYAL KONULAR.pdf
+C:/Users\hamdi\Downloads\Bölüm6-   ZEKASININ TEMELLER _VER TABANLARI VE ENFORMASYON YÖNET M  (1).pdf
+C:/Users\hamdi\Downloads\Bölüm6-   ZEKASININ TEMELLER _VER TABANLARI VE ENFORMASYON YÖNET M  (2).pdf
+C:/Users\hamdi\Downloads\Bölüm6-   ZEKASININ TEMELLER _VER TABANLARI VE ENFORMASYON YÖNET M .pdf
+C:/Users\hamdi\Downloads\Candito 6 Week Strength Program.pdf
+C:/Users\hamdi\Downloads\Elektronik Ticaret tüketici Sempozyum Vize.pdf
+C:/Users\hamdi\Downloads\kaçınılmaz son sessiz istifa.pdf
+C:/Users\hamdi\Downloads\Kısa Tarihçe İnternetin.pdf
+C:/Users\hamdi\Downloads\Kısa Tarihçe_ İnternetin Gelişimi (1).pdf
+C:/Users\hamdi\Downloads\Kısa Tarihçe_ İnternetin Gelişimi (2).pdf
+C:/Users\hamdi\Downloads\Kısa Tarihçe_ İnternetin Gelişimi (3).pdf
+C:/Users\hamdi\Downloads\Kısa Tarihçe_ İnternetin Gelişimi (4).pdf
+C:/Users\hamdi\Downloads\Kısa Tarihçe_ İnternetin Gelişimi (5).pdf
+C:/Users\hamdi\Downloads\Kısa Tarihçe_ İnternetin Gelişimi.pdf
+C:/Users\hamdi\Downloads\Lise Mezuniyet Belgesi.pdf
+C:/Users\hamdi\Downloads\Makine Öğrenmesi Örnek Projeler.pdf
+C:/Users\hamdi\Downloads\mathematics-10-02552-v2.pdf
+C:/Users\hamdi\Downloads\s10462-018-09677-1.pdf
+C:/Users\hamdi\Downloads\s12599-021-00708-w.pdf
+C:/Users\hamdi\Downloads\SAU027 Yangın Güvenliği Dersi Final Konu Başlıkları.pdf
+C:/Users\hamdi\Downloads\TEKNOSA HP VİCTUS 16- AHMET HAMDİ ÖZKURT.pdf
+C:/Users\hamdi\Downloads\Uygulamalarla_SQL_Ogreniyorum_Egitim_Bilgi_Formu_1.pdf
+C:/Users\hamdi\Downloads\Yapay zeka ve sözleşme dışı sorumluluk.pdf
+C:/Users\hamdi\Downloads\Yapay Zeka Zirvesi 2024 Sertifika AHMET HAMDİ ÖZKURT.pdf
+C:/Users\hamdi\Downloads\Ödev 2024 Güz (1) (1).pdf
+C:/Users\hamdi\Downloads\Ödev 2024 Güz (1).pdf
+C:/Users\hamdi\Downloads\Ödev 2024 Güz (2).pdf
+C:/Users\hamdi\Downloads\Ödev 2024 Güz.pdf
+C:/Users\hamdi\OneDrive\Blokzincir hakkında.pdf
+C:/Users\hamdi\OneDrive\Bölüm3-ENFORMASYON S STEMLER  ÖRGÜTLER VE STRATEJ .pdf
+C:/Users\hamdi\OneDrive\Elektronik Ticaret tüketici Sempozyum Vize.pdf
+C:/Users\hamdi\OneDrive\Yapay zeka ve sözleşme dışı sorumluluk 1.pdf
+C:/Users\hamdi\OneDrive\Yapay zeka ve sözleşme dışı sorumluluk.pdf
+C:/Users\hamdi\OneDrive\Yay n Eti i 1. hafta 2023 1.pdf
+C:/Users\hamdi\OneDrive\Yay n Eti i 1. hafta 2023 2.pdf
+C:/Users\hamdi\OneDrive\Yay n Eti i 1. hafta 2023 3.pdf
+C:/Users\hamdi\OneDrive\Yay n Eti i 1. hafta 2023 4.pdf
+C:/Users\hamdi\OneDrive\Yay n Eti i 1. hafta 2023.pdf
+C:/Users\hamdi\OneDrive\Belgeler\6698 SAYILI K______SEL VER__LER__N KORUNMASI HAKKINDA KANUN___UN BIG DATA (B__Y__K VER__) VE __RADE SE.pdf
+C:/Users\hamdi\OneDrive\Belgeler\6698 SAYILI K______SEL VER__LER__N KORUNMASI HAKKINDA KANUN___UN BIG DATA (B__Y__K VER__) VE __RADE SERBEST__S__ A__ISINDAN DE__ERLEND__R__LMES__[#304076]-291147.pdf
+C:/Users\hamdi\OneDrive\Belgeler\dijital tereke makale.pdf
+C:/Users\hamdi\OneDrive\Belgeler\ek-1_2209-a_arastirma_onerisi_formu_28.09.2022_0 (1).pdf
+C:/Users\hamdi\OneDrive\Belgeler\Elektronik Ticaret tüketici Sempozyum final.pdf
+C:/Users\hamdi\OneDrive\Belgeler\Jurix _ Metaverse Teknolojisi’nin Sözleşmeler Hukuku’nda Sebep Olacağı Değişimlere İlişkin Değerlendirmeler.pdf
+C:/Users\hamdi\OneDrive\Belgeler\SORUN AĞACI 3 GRUP.pdf
+C:/Users\hamdi\OneDrive\Belgeler\Üretim yönetimi final_250106_132446 (1).pdf
+C:/Users\hamdi\OneDrive\Masaüstü\.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\AHMET HAMDİ CV.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\AHMET HAMDİ ÖZKURT CV (1).pdf
+C:/Users\hamdi\OneDrive\Masaüstü\AHMET HAMDİ ÖZKURT CV.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\Candito 6 Week Strength Program.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\Kısa Tarihçe_ İnternetin Gelişimi (5).pdf
+C:/Users\hamdi\OneDrive\Masaüstü\Sql Deneme Sınavı 3 Sorular.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\Bilişim Hukuğu Final\6698 SAYILI K______SEL VER__LER__N KORUNMASI HAKKINDA KANUN___UN BIG DATA (B__Y__K VER__) VE __RADE SERBEST__S__ A__ISINDAN DE__ERLEND__R__LMES__[#304076]-291147.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\Bilişim Hukuğu Final\dijital tereke makale.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\Bilişim Hukuğu Final\Elektronik Ticaret tüketici Sempozyum final.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\Bilişim Hukuğu Final\Jurix _ Metaverse Teknolojisi’nin Sözleşmeler Hukuku’nda Sebep Olacağı Değişimlere İlişkin Değerlendirmeler.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\DONANIM\1 ve 2 Hafta_240210_161226.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\DONANIM\10 Hafta_231204_230905.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\DONANIM\11 Hafta_231212_125144.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\DONANIM\12Hafta_240918_044904.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\DONANIM\13 Hafta _240210_161704.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\DONANIM\1Hafta_240210_161154.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\DONANIM\3Hafta_231114_191235.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\DONANIM\5 Hafta_240210_161409.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\DONANIM\6 Hafta _240918_044952.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\DONANIM\7 Hafta _231113_162930.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\back.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\filesave.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\forward.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\hand.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\help.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\home.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\matplotlib.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\move.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\qt4_editor_options.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\subplots.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\SELENIUM\.venv\Lib\site-packages\matplotlib\mpl-data\images\zoom_to_rect.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\üretim final pdf\10_Kalite_Yönetimi (31.12.2022) (1).pdf
+C:/Users\hamdi\OneDrive\Masaüstü\üretim final pdf\11_STOK_YÖNET M _2023-24_BAHAR (1).pdf
+C:/Users\hamdi\OneDrive\Masaüstü\üretim final pdf\5_Verimlilik_YBS_7.11.2022 (3).pdf
+C:/Users\hamdi\OneDrive\Masaüstü\üretim final pdf\6_Proje_Yönetimi_YBS_14.11.2022.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\üretim final pdf\7_kurulu _yeri_seçimi_28.11.2022(1).pdf
+C:/Users\hamdi\OneDrive\Masaüstü\üretim final pdf\8_Yerle im_stratejileri.pdf
+C:/Users\hamdi\OneDrive\Masaüstü\üretim final pdf\9_Süreç_Stratejisi (MB) 26.12.2022 (1).pdf

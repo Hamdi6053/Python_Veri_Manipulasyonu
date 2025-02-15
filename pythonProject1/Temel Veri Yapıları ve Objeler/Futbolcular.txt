@@ -1,0 +1,9 @@
+Muslera,Beşiktaş
+Serdar Aziz,Fenerbahçe
+Volkan Demirel,Fenerbahçe
+Alex,Fenerbahçe
+Talisca,Beşiktaş
+Melo,Galatasaray
+Selçuk İnan,Galatasaray
+Onur Bulut,Beşiktas
+Mert Günok,Beşiktaş
